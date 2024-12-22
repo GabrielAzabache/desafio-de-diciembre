@@ -1,4 +1,5 @@
-html y PHP
+# Calculadora
+## html y PHP
 ``` bash
 <!DOCTYPE html>
 <html lang="en">
@@ -83,7 +84,7 @@ html y PHP
 
 ```
 
-CSS:
+## CSS:
 
 ``` bash
 body {
